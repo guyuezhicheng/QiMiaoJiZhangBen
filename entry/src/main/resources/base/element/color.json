@@ -1,0 +1,100 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F5F0F8"
+    },
+    {
+      "name": "bg_page_top",
+      "value": "#F5F0F8"
+    },
+    {
+      "name": "bg_page_bottom",
+      "value": "#FDF3F4"
+    },
+    {
+      "name": "brand_blue",
+      "value": "#3D7BFA"
+    },
+    {
+      "name": "brand_blue_light",
+      "value": "#E8F0FE"
+    },
+    {
+      "name": "expense_red",
+      "value": "#F5453C"
+    },
+    {
+      "name": "income_green",
+      "value": "#0EC26C"
+    },
+    {
+      "name": "card_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F1F1F"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#999999"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#C0C0C0"
+    },
+    {
+      "name": "divider",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "tag_orange",
+      "value": "#FAAD14"
+    },
+    {
+      "name": "selected_cat_bg",
+      "value": "#F0A2A2"
+    },
+    {
+      "name": "search_bg",
+      "value": "#66FFFFFF"
+    },
+    {
+      "name": "chip_bg",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "tab_bar_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "mask_popup",
+      "value": "#33000000"
+    },
+    {
+      "name": "glass_bar_bg",
+      "value": "#8CFFFFFF"
+    },
+    {
+      "name": "glass_bar_border",
+      "value": "#B3FFFFFF"
+    },
+    {
+      "name": "glass_circle_bg",
+      "value": "#80FFFFFF"
+    },
+    {
+      "name": "glass_search_bg",
+      "value": "#73FFFFFF"
+    },
+    {
+      "name": "fab_shadow",
+      "value": "#593D7BFA"
+    },
+    {
+      "name": "glass_shadow",
+      "value": "#2EB4A0AA"
+    }
+  ]
+}

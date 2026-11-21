@@ -1,0 +1,92 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#151518"
+    },
+    {
+      "name": "bg_page_top",
+      "value": "#151518"
+    },
+    {
+      "name": "bg_page_bottom",
+      "value": "#151518"
+    },
+    {
+      "name": "brand_blue",
+      "value": "#3D7BFA"
+    },
+    {
+      "name": "brand_blue_light",
+      "value": "#26304A"
+    },
+    {
+      "name": "expense_red",
+      "value": "#F5453C"
+    },
+    {
+      "name": "income_green",
+      "value": "#0EC26C"
+    },
+    {
+      "name": "card_bg",
+      "value": "#232327"
+    },
+    {
+      "name": "text_primary",
+      "value": "#EDEDF0"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8C8C91"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#5A5A60"
+    },
+    {
+      "name": "divider",
+      "value": "#333338"
+    },
+    {
+      "name": "tag_orange",
+      "value": "#FAAD14"
+    },
+    {
+      "name": "selected_cat_bg",
+      "value": "#F0A2A2"
+    },
+    {
+      "name": "search_bg",
+      "value": "#66232327"
+    },
+    {
+      "name": "chip_bg",
+      "value": "#2C2C31"
+    },
+    {
+      "name": "tab_bar_bg",
+      "value": "#2B2B30"
+    },
+    {
+      "name": "mask_popup",
+      "value": "#66000000"
+    },
+    {
+      "name": "glass_bar_bg",
+      "value": "#8C232328"
+    },
+    {
+      "name": "glass_bar_border",
+      "value": "#1FFFFFFF"
+    },
+    {
+      "name": "glass_circle_bg",
+      "value": "#80232328"
+    },
+    {
+      "name": "glass_search_bg",
+      "value": "#73232328"
+    }
+  ]
+}

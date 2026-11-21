@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "bookManage",
+      "pageSourceFile": "src/main/ets/pages/BookManagePage.ets",
+      "buildFunction": "BookManageBuilder"
+    }
+  ]
+}
