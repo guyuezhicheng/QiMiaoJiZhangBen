@@ -1,42 +1,56 @@
 {
-  "app": {
-    "signingConfigs": [],
-    "products": [
+  app: {
+    signingConfigs: [
       {
-        "name": "default",
-        "signingConfig": "default",
-        "targetSdkVersion": "26.0.0",
-        "compatibleSdkVersion": "26.0.0",
-        "runtimeOS": "HarmonyOS",
-        "buildOption": {
-          "strictMode": {
-            "caseSensitiveCheck": true,
-            "useNormalizedOHMUrl": true
-          }
-        }
-      }
+        name: 'default',
+        type: 'HarmonyOS',
+        material: {
+          certpath: 'C:\\Users\\17595\\.ohos\\config\\default_QiMiaoJiZhangBen_YZaa1bcQY7DCieKUzLJbWB2OuYroTH36lXlwGieXh8=.cer',
+          keyAlias: 'debugKey',
+          keyPassword: 'REMOVED',
+          profile: 'C:\\Users\\17595\\.ohos\\config\\default_QiMiaoJiZhangBen_YZaa1bcQY7DCieKUzLJbWB2OuYroTH36lXlwGieXh8=.p7b',
+          signAlg: 'SHA256withECDSA',
+          storeFile: 'C:\\Users\\17595\\.ohos\\config\\default_QiMiaoJiZhangBen_YZaa1bcQY7DCieKUzLJbWB2OuYroTH36lXlwGieXh8=.p12',
+          storePassword: 'REMOVED',
+        },
+      },
     ],
-    "buildModeSet": [
+    products: [
       {
-        "name": "debug",
+        name: 'default',
+        signingConfig: 'default',
+        targetSdkVersion: '26.0.0',
+        compatibleSdkVersion: '26.0.0',
+        runtimeOS: 'HarmonyOS',
+        buildOption: {
+          strictMode: {
+            caseSensitiveCheck: true,
+            useNormalizedOHMUrl: true,
+          },
+        },
+      },
+    ],
+    buildModeSet: [
+      {
+        name: 'debug',
       },
       {
-        "name": "release"
-      }
-    ]
+        name: 'release',
+      },
+    ],
   },
-  "modules": [
+  modules: [
     {
-      "name": "entry",
-      "srcPath": "./entry",
-      "targets": [
+      name: 'entry',
+      srcPath: './entry',
+      targets: [
         {
-          "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
-        }
-      ]
-    }
-  ]
+          name: 'default',
+          applyToProducts: [
+            'default',
+          ],
+        },
+      ],
+    },
+  ],
 }
